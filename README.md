@@ -1,5 +1,6 @@
-# qfs-pytorch-yolov5（包含所有模型权重）
+# qfs-pytorch-yolov5
 <!-- 如何训练自己的数据集？ -->
+（权重自行下载）
 1.找到data/voc
 2.将自己的voc的xml放入Annotations,将原图放入images和JPEGImages文件中
 3.运行make_voc_txt.py 会在ImageSets中生成train.txt,test.txt,train.txt,val.txt
